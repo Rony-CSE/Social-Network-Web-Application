@@ -1,5 +1,7 @@
 # Social Network Web Application
-![PHP version](https://php.net)
+[PHP](https://php.net)
+
+================================
 ## Features
 
   #### create account
