@@ -1,12 +1,12 @@
-# Social-Network-Web-Application
+# Social Network Web Application
 ## Features
 
-  create account
+  ### create account
   
-  log in
+  ### log in
   
-  log out
+  ### log out
   
-  change password
+  ### change password
   
-  forgot password
+  ### forgot password
